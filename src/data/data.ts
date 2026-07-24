@@ -1,24 +1,24 @@
 import type { ICard } from '../types';
-import amurImg from './assets/images/france/охота-амура.png'
-import ladyImg from './assets/images/france/lady.png';
-import procedureImg from './assets/images/france/процедура.png';
-import roseImg from './assets/images/france/роза.png';
-import birdsImg from './assets/images/france/птичья-трапеза.png';
-import fishImg from './assets/images/france/пейзаж-с-рыбой.png';
+import amurImg from '../assets/images/france/amur-hunt.jpg'
+import ladyImg from '../assets/images/france/lady-with-a-dog.jpg';
+import procedureImg from '../assets/images/france/процедура.jpg';
+import roseImg from '../assets/images/france/роза.jpg';
+import birdsImg from '../assets/images/france/птичья-трапеза.jpg';
+import fishImg from '../assets/images/france/пейзаж-с-рыбой.jpg';
 
-import underTheCity from './assets/images/germany/над городом.png';
-import chicks from './assets/images/germany/птенцы.png';
-import amongTheLeaves from './assets/images/germany/среди-листьев.png';
-import brightBird from './assets/images/germany/яркая-птица.png';
-import woodpeckers from './assets/images/germany/дятлы.png';
-import highWaters from './assets/images/germany/большие-воды.png';
+import underTheCity from '../assets/images/germany/над-городом.png';
+import chicks from '../assets/images/germany/птенцы.png';
+import amongTheLeaves from '../assets/images/germany/среди-листьев.png';
+import brightBird from '../assets/images/germany/яркая-птица.png';
+import woodpeckers from '../assets/images/germany/дятлы.png';
+import highWaters from '../assets/images/germany/большие-воды.png';
 
-import wildBeast from './assets/images/england/дикий-зверь.png';
-import rockyShore from './assets/images/england/скалистый-берег.png';
-import riversAndMountains from './assets/images/england/река-и-горы.png';
-import whiteParrot from './assets/images/england/белый-попугай.png';
-import nightFish from './assets/images/england/ночная-рыба.png';
-import redCat from './assets/images/england/рыжий-кот.png';
+import wildBeast from '../assets/images/england/дикий-зверь.png';
+import rockyShore from '../assets/images/england/скалистый-берег.png';
+import riversAndMountains from '../assets/images/england/река-и-горы.png';
+import whiteParrot from '../assets/images/england/белый-попугай.png';
+import nightFish from '../assets/images/england/ночная-рыба.png';
+import redCat from '../assets/images/england/рыжий-кот.png';
 
 export const reproductionsData: ICard[] = [
   {
